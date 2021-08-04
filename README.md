@@ -1,6 +1,11 @@
-# Steven Pham's [Portfolio](https://stevensydan.github.io/)
-Contact me at *stevensydan@gmail.com*
+# Steven Pham's [Portfolio Page](https://stevensydan.github.io/)
+[***https://stevensydan.github.io/***](https://stevensydan.github.io/)
 
+
+
+Contact me at stevensydan@gmail.com
+
+Resume on [Indeed](https://my.indeed.com/p/stevenp-9evkuhj)
 
 ---
 
